@@ -1,0 +1,14 @@
+.reveal section {
+  /* font-weight: bold !important; */
+  font-size: 1rem !important;
+}
+
+.reveal section code {
+  background-color: rgb(71, 56, 56) !important;
+  padding: 0 0.3rem;
+  border-radius: 3px !important;
+}
+
+/* .reveal section pre code {
+  font-size: 0.7em !important;
+} */
